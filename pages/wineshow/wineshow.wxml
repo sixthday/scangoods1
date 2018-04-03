@@ -1,0 +1,9 @@
+<!--pages/wineshow/wineshow.wxml-->
+<text>pages/wineshow/wineshow.wxml</text>
+<view class="container">
+    <view class="usermotto">
+      <text>这是一个展示页：</text>
+      <text style="margin-top:20px;font-size:16px;">名称: 西凤华山论剑</text>
+      <text style="margin-top:10px;font-size:16px;">商标: 华山论剑</text>
+    </view>
+</view>
